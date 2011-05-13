@@ -1,0 +1,14 @@
+{
+  "name": "node-github-issues",
+  "description": "GitHub Issues API v3",
+  "version": "0.0.1",
+  "author": "Basil Shkara <basil@neat.io>",
+  "keywords": ["github", "github issues", "issues"],
+  "main" : "lib/github_issues.js",
+  "directories" : {
+    "lib" : "./lib"
+  },
+  "engines": {
+    "node": ">= 0.4.2"
+  }
+}
